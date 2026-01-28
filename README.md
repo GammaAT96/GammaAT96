@@ -1,5 +1,5 @@
 # 🙏 Namaste, I’m Anant Tripathi 😎
-### B.Tech CSE Student | Full-Stack Developer (MERN) | Open-Source Enthusiast | System Designer
+### B.Tech CSE Student | Full-Stack Developer (MERN) | System Designer | Open-Source Enthusiast 
 
 ---
 
