@@ -137,8 +137,8 @@ I believe in **learning by building**, strengthening concepts through projects, 
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: _Coming Soon_  
-- 🐙 GitHub: https://github.com/your-github-username  
+- 💼 LinkedIn: www.linkedin.com/in/anant-tripathi-202157325
+- 🐙 GitHub: https://github.com/GammaAT96  
 
 ---
 
