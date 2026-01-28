@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Anant Tripathi 🚀  
-### B.Tech CSE Student | Full-Stack Developer (MERN) | Open-Source Enthusiast
+# 🙏 Namaste, I’m Anant Tripathi 😎
+### B.Tech CSE Student | Full-Stack Developer (MERN) | Open-Source Enthusiast | System Designer
 
 ---
 
@@ -121,7 +121,7 @@ I believe in **learning by building**, strengthening concepts through projects, 
 ---
 
 ## 📊 GitHub Stats
-> _Namaste Stats_  
+> _My Github Stats_  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GammaAT96&show_icons=true&theme=tokyonight)
 
