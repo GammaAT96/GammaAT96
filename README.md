@@ -123,7 +123,7 @@ I believe in **learning by building**, strengthening concepts through projects, 
 ## 📊 GitHub Stats
 > _(Auto-updated stats will be added)_  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GammaAT96&show_icons=true&theme=tokyonight)
 
 ---
 
