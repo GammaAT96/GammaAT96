@@ -110,28 +110,19 @@ I believe in **learning by building**, strengthening concepts through projects, 
 
 - 🔹 **Property Management System — MERN (2026)**  
   - Built a full-stack platform to manage property listings, tenants, and transactions  
-  - Implemented secure authentication and role-based access  
-  - Designed dynamic dashboards for real-time data visualization  
-
-- 🔹 **Real Estate Management System — Full Stack (2026)**  
+ 
+ - 🔹 **Real Estate Management System — Full Stack (2026)**  
   - Developed a scalable system for property search, booking, and management  
-  - Created optimized REST APIs for high performance  
-  - Designed a responsive UI for smooth user experience  
 
 - 🔹 **Dhanvantri-AI — AI Medical Assistant (2026)**  
   - Built an AI-powered platform to assist doctors in analyzing medical reports  
-  - Integrated 6 AI agents for diagnosis support and insights  
-  - Focused on decision-making support systems in healthcare  
 
 - 🔹 **Chaitanya Health — ML + MERN (2025)**  
   - Developed machine learning models to analyze mental health data  
-  - Identified behavioral patterns and insights  
-  - Combined ML with full-stack development for real-world application  
 
 - 🔹 **Stock Market Predictive Analysis — Python (2026)**  
   - Used historical data to forecast stock trends  
   - Applied statistical modeling & machine learning techniques  
-  - Focused on data-driven financial insights  
 
 ## 🧩 Competitive Programming Profiles
 - **LeetCode:** _Coming Soon_  
